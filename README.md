@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**arenmizuno/arenmizuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aren — an M.S. in Applied Data Science candidate at the University of Chicago.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📊 Interested in data science, machine learning, and forecasting
+- 🧠 Working on time series models and NLP
+- 🌎 Based in Chicago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Portfolio
+Check out my projects here: [Portfolio](https://your-link.com)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🧠 Languages & Tools
+- Python, R, SQL
+- TensorFlow, PyTorch
+- Statsmodels, Scikit-learn
